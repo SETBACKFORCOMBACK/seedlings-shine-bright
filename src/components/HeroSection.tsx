@@ -15,10 +15,17 @@ const HeroSection = () => {
             🌱 Nurturing Every Unique Mind
           </span>
 
-          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black text-primary-foreground mb-4 font-heading leading-tight animate-fade-in uppercase tracking-wide" style={{ animationDelay: "0.15s" }}>
+          <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-primary-foreground mb-2 font-heading leading-tight animate-fade-in" style={{ animationDelay: "0.15s" }}>
+            Seed School & Day Care Center
+          </h2>
+          <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-secondary mb-4 font-heading leading-tight animate-fade-in" style={{ animationDelay: "0.2s" }}>
+            for the Neurodiverse
+          </h2>
+
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black text-primary-foreground mb-4 font-heading leading-tight animate-fade-in uppercase tracking-wide" style={{ animationDelay: "0.25s" }}>
             Seed Neurodiverse
           </h1>
-          <p className="text-xl sm:text-2xl md:text-3xl font-bold text-primary-foreground mb-6 animate-fade-in" style={{ animationDelay: "0.25s" }}>
+          <p className="text-xl sm:text-2xl md:text-3xl font-bold text-primary-foreground mb-6 animate-fade-in" style={{ animationDelay: "0.3s" }}>
             சிறப்பு குழந்தைகளுக்கான நட்பு பள்ளி
           </p>
 
