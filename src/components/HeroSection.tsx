@@ -23,7 +23,6 @@ const HeroSection = () => {
           </h2>
 
           <p className="text-xl sm:text-2xl md:text-3xl font-bold text-primary-foreground mb-6 animate-fade-in" style={{ animationDelay: "0.25s" }}>
-          <p className="text-xl sm:text-2xl md:text-3xl font-bold text-primary-foreground mb-6 animate-fade-in" style={{ animationDelay: "0.3s" }}>
             சிறப்பு குழந்தைகளுக்கான நட்பு பள்ளி
           </p>
 
