@@ -15,10 +15,12 @@ const HeroSection = () => {
             🌱 Nurturing Every Unique Mind
           </span>
 
-          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-6 font-heading leading-tight animate-fade-in" style={{ animationDelay: "0.15s" }}>
-            Seed School & Day Care Center
-            <span className="block text-secondary mt-2">for the Neurodiverse</span>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black text-primary-foreground mb-4 font-heading leading-tight animate-fade-in uppercase tracking-wide" style={{ animationDelay: "0.15s" }}>
+            Seed Neurodiverse
           </h1>
+          <p className="text-xl sm:text-2xl md:text-3xl font-bold text-primary-foreground mb-6 animate-fade-in" style={{ animationDelay: "0.25s" }}>
+            சிறப்பு குழந்தைகளுக்கான நட்பு பள்ளி
+          </p>
 
           <p className="text-base sm:text-lg md:text-xl text-primary-foreground/90 mb-10 max-w-3xl mx-auto leading-relaxed animate-fade-in px-2" style={{ animationDelay: "0.3s" }}>
             A nurturing, structured and inclusive learning environment for children with Autism, ADHD, Cerebral Palsy and Intellectual Disabilities.
