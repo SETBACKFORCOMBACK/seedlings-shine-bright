@@ -13,7 +13,7 @@ const AboutSection = () => {
         </div>
 
         <p className="text-lg text-muted-foreground text-center leading-relaxed mb-12 max-w-3xl mx-auto">
-          Seed School provides individualized learning programs and therapeutic support for neurodiverse children. The school focuses on communication development, behavioral guidance, academics, sensory integration and life skills training to help children grow confidently and independently.
+          Seed School provides individualized learning programs (IEP's) and therapeutic support for neurodiverse children. The school focuses on communication development, behavioral guidance, academics, sensory integration and life skills training to help children grow confidently and independently.
         </p>
 
         <div className="grid md:grid-cols-3 gap-8">
