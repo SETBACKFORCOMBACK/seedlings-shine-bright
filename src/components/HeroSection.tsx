@@ -16,7 +16,7 @@ const HeroSection = () => {
           </span>
 
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-primary-foreground mb-4 font-heading leading-tight animate-fade-in" style={{ animationDelay: "0.15s" }}>
-            Seed Neurodiverse
+            SEED NEURODIVERSE
           </h2>
 
           <p className="text-xl sm:text-2xl md:text-3xl font-bold text-primary-foreground mb-6 animate-fade-in" style={{ animationDelay: "0.25s" }}>
