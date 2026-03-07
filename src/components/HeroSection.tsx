@@ -12,14 +12,11 @@ const HeroSection = () => {
       <div className="relative z-10 container mx-auto text-center px-4 py-20">
         <div className="max-w-4xl mx-auto">
           <span className="inline-block px-4 py-2 rounded-full bg-primary/20 text-primary-foreground text-sm font-semibold mb-6 animate-fade-in backdrop-blur-sm">
-            🌱 Nurturing Every Unique Mind
+            Nurturing Every Unique Mind
           </span>
 
-          <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-primary-foreground mb-2 font-heading leading-tight animate-fade-in" style={{ animationDelay: "0.15s" }}>
-            Seed School & Day Care Center
-          </h2>
-          <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-secondary mb-4 font-heading leading-tight animate-fade-in" style={{ animationDelay: "0.2s" }}>
-            for the Neurodiverse
+          <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-primary-foreground mb-4 font-heading leading-tight animate-fade-in" style={{ animationDelay: "0.15s" }}>
+            Seed Neurodiverse
           </h2>
 
           <p className="text-xl sm:text-2xl md:text-3xl font-bold text-primary-foreground mb-6 animate-fade-in" style={{ animationDelay: "0.25s" }}>

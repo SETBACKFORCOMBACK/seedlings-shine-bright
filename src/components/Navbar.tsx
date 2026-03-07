@@ -27,7 +27,7 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-between py-3 md:py-4 px-4">
         <a href="#" className="flex items-center gap-2">
           <img src={seedLogo} alt="Seed School Logo" className="w-10 h-10 md:w-12 md:h-12 rounded-full" />
-          <span className="font-heading font-bold text-xl md:text-2xl text-primary">Seed School</span>
+          <span className="font-heading font-bold text-xl md:text-2xl text-primary">Seed Neurodiverse</span>
         </a>
 
         <div className="hidden md:flex items-center gap-6">
